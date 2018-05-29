@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Disqus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Disqus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-5" transform="translate(15.000000, 41.000000)">
+            <path d="M36.8434419,1.15933333 C12.281907,0.00223809524 0,7.50209524 0,23.6566667 C0,39.8134762 12.281907,47.3110952 36.8434419,46.154" id="Stroke-1" stroke="#F85957" stroke-width="9.08093718"></path>
+            <path d="M60.791907,46.154 C85.3557209,47.3110952 97.6353488,39.8134762 97.6353488,23.6566667 C97.6353488,7.50209524 85.3557209,0.00223809524 60.791907,1.15933333" id="Stroke-3" stroke="#36DCEE" stroke-width="9.08093718"></path>
+            <path d="M33.4613023,23.6566667 L64.1763256,23.6566667" id="Stroke-4" stroke="#9EE629" stroke-width="6.81070289"></path>
+        </g>
+    </g>
+</svg>
